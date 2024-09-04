@@ -1,0 +1,104 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{441776A8-408B-582D-B646-C2B61479F3BB}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "DTHttpRequest",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3aa1c454308746df9036022bf3f04edb"
+		},
+		{
+			"Name": "DTHttpJson",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9d7ff3f51c3e45128824f2de721b10c3"
+		},
+		{
+			"Name": "JsonCsvToDataTableToStruct",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e2cfedae1a22428a8016768471ca23ca"
+		},
+		{
+			"Name": "AssetsCleaner",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3caab7c6e81f449296989122c043ae21"
+		},
+		{
+			"Name": "AzSpeech",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/94ad3e51c6f443718cdb312b48742bb3"
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintWebSocket",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8d3214f45fc74fe48374e8310926dfd4"
+		},
+		{
+			"Name": "UITouch",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d7b58908e1454aee88239b1022c92a32"
+		},
+		{
+			"Name": "RuntimeImageLoader",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e8d4771b882343199acaf995c32a5fea"
+		},
+		{
+			"Name": "DTClipboard",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ce8c604fecc34908ae26578f2a50ccfd"
+		},
+		{
+			"Name": "glTFRuntime",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d2ed3709933d4608a3a8dd746cbc045d"
+		},
+		{
+			"Name": "RuntimeFilesDownloader",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e7e6df6d6e9c46f0ae35163eab67ff9a"
+		},
+		{
+			"Name": "VaRest",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
+		},
+		{
+			"Name": "ImageCache",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5b7c22cb59734b4fb3bbc3d737712b74"
+		},
+		{
+			"Name": "RuntimeSpeechRecognizer",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2b33311abdb048819664a6cfe0bbd90d"
+		},
+		{
+			"Name": "RuntimeAudioImporter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/81fd278e318e4235a028d3fdf46bf036"
+		},
+		{
+			"Name": "YandexSpeechKit",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/71c95af76f3e44e6b9f1988f24148c20"
+		},
+		{
+			"Name": "Overtone",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/52e0c8b7983c40efab08578bf3e814b4"
+		}
+	]
+}
