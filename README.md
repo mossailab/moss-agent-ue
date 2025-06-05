@@ -1,3 +1,3 @@
 ## AgentMe: Humanoid AI for Mobile
 
-AgentMe Humanoid AI.png
+![image](AgentMe Humanoid AI.png)
